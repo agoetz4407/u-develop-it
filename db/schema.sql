@@ -1,8 +1,4 @@
 DROP TABLE IF EXISTS votes;
-<<<<<<< HEAD
-DROP TABLE IF EXISTS voters;
-=======
->>>>>>> develop
 DROP TABLE IF EXISTS candidates;
 DROP TABLE IF EXISTS parties;
 DROP TABLE IF EXISTS voters;
